@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+## Demo
+https://giphy-trending.herokuapp.com/
+
 ## Features
 - Display top 20 Trending gifs from Giphy by using its api.
 - Skeleton loading.
