@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Features
 - Display top 20 Trending gifs from Giphy by using its api.
+- Skeleton loading.
 - Loading more 20 gifs when scrolling down.
 - See full screen gif by clicking on gif.
 - See gif's comments from fake API.
